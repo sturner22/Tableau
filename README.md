@@ -12,10 +12,12 @@ The data represents July through December of 2013, all of 2014, and through May 
 4. Are there any key customers? Has this changed over time? 
 
 ## Data Analysis Process
-I downloaded the datasets and did some initial cleaning in Excel (changing header names, ensuring data types are correct and consistent, checking for missing values or nulls). Then, I uploaded the data to Tableau and created relationships in the data source pane. From here, I used only Tableau to analyze and visualize the data. I did occassionally open the data in Excel to QA my Tableau calculations or search for the data to find certain values or quickly answer a question-- this is much faster and easier to do in Excel. 
+I downloaded the datasets and did some initial cleaning in Excel (changed header names, ensured data types are correct and consistent, checked for missing values or nulls). Then, I uploaded the data to Tableau and created relationships in the data source pane. From here, I used only Tableau to analyze and visualize the data. I did occassionally open the data in Excel to QA my Tableau calculations or search for the data to find certain values or quickly answer a question-- this is much faster and easier to do in Excel. 
 
 ### Skills Demonstrated
-
-
+* Parameters & Parameter Actions
+* LOD expressions
+* Table calculations
+* Calculated fields (aggregations, conditional--If, Case)
 
 ## Key Insights
