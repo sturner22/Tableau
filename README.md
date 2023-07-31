@@ -1,6 +1,8 @@
 # Tableau
 Northwind Traders Data Analysis Project 
 
+View dashboard here: [Northwind Traders Tableau Dashboard](https://public.tableau.com/app/profile/sarah.turner4702/viz/NorthwindTraders_16899754828470/Dashboard1)
+
 For this project, I analyzed sales and order data for Northwind Traders, a fictitious gourmet food supplier. I obtained this dataset from [Maven Analytic's Data Playground.](https://app.mavenanalytics.io/datasets) 
 
 The data represents July through December of 2013, all of 2014, and through May 6 of 2015. 
@@ -25,4 +27,5 @@ I downloaded the datasets and did some initial cleaning in Excel (changed header
 2. Customer count and order count are also up in 2015 as compared to 2014.
 3. Dairy products brought in the most revenue in 2014; in 2015, beverages are in the lead so far
 4. There are a few products that are bringing in a large percentage of overall sales and sales in their category. For example, Cote de Blaye (a wine) has brought in 58% of sales in the beverages category so far in 2015. However, a closer look shows that some of the other beverage products have more orders, but cost less, therefore bringing in less revenue (investigate the categories and tool tips in the tree map for more information). So, Cote de Blaye is a well-performing product, but the other products appear to be just as or even more popular, based on number of orders, even though they are bringing in less sales overall.
-5. Top customers- 
+5. There is year-over-year consistency with top customers that bring in the most sales revenue. Quick Stop, Ernst Handel, and Save-a-lot Markets are the leaders.
+6. There is more to explore in the interactive dashboard! 
