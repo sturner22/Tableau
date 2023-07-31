@@ -3,7 +3,7 @@ Northwind Traders Data Analysis Project
 
 View dashboard here: [Northwind Traders Tableau Dashboard](https://public.tableau.com/app/profile/sarah.turner4702/viz/NorthwindTraders_16899754828470/Dashboard1)
 
-For this project, I analyzed sales and order data for Northwind Traders, a fictitious gourmet food supplier. I obtained this dataset from [Maven Analytic's Data Playground.](https://app.mavenanalytics.io/datasets) 
+For this project, I analyzed sales and order data for Northwind Traders, a fictitious gourmet food supplier. I obtained the dataset from [Maven Analytic's Data Playground.](https://app.mavenanalytics.io/datasets) 
 
 The data represents July through December of 2013, all of 2014, and through May 6 of 2015. 
 
