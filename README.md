@@ -23,7 +23,7 @@ I downloaded the datasets and did some initial cleaning in Excel (changed header
 * Calculated fields (aggregations, conditional--If, Case)
 
 ## Key Insights
-1. As of 5 weeks into Q2 of 2015, sales have reached at least 50% of the sale total for the entire year of 2014. For beverages specifically, sales in 2015 have already surpassed 2014.
+1. As of 5 weeks into Q2 of 2015, sales have reached at least 50% of the sale total for the entire year of 2014, in all categories. For beverages specifically, sales in 2015 have already surpassed 2014.
 2. Customer count and order count are also up in 2015 as compared to 2014.
 3. Dairy products brought in the most revenue in 2014; in 2015, beverages are in the lead so far
 4. There are a few products that are bringing in a large percentage of overall sales and sales in their category. For example, Cote de Blaye (a wine) has brought in 58% of sales in the beverages category so far in 2015. However, a closer look shows that some of the other beverage products have more orders, but cost less, therefore bringing in less revenue (investigate the categories and tool tips in the tree map for more information). So, Cote de Blaye is a well-performing product, but the other products appear to be just as or even more popular, based on number of orders, even though they are bringing in less sales overall.
