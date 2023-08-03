@@ -7,6 +7,8 @@ For this project, I analyzed sales and order data for Northwind Traders, a ficti
 
 The data represents July through December of 2013, all of 2014, and through May 6 of 2015. 
 
+My analysis is focused the performance of Northwind Traders for the current year (the last year of data is 2015, and latest order date is 5/6/2015). I analyzed performance based on sales totals (revenue), customer count, and order count. I looked at these metrics overall, by product category, by specific product, and by customer. Many of the visuals focus on comparing 2015 numbers to 2014, and some of the visuals include metrics from all of the years to show trends and patterns over time. 
+
 ## Business Questions
 1. How are sales going so far in 2015 as compared to the previous year?
 2. Which categories bring in the most revenue?
