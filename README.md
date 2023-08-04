@@ -16,9 +16,9 @@ My analysis is focused the performance of Northwind Traders for the current year
 4. Are there any key customers? Has this changed over time? 
 
 ## Data Analysis Process
-I downloaded the datasets and did some initial cleaning in Excel (changed header names, ensured data types are correct and consistent, checked for missing values or nulls). Then, I uploaded the data to Tableau and created relationships in the data source pane. From here, I used only Tableau to analyze and visualize the data. I did occassionally open the data in Excel to QA my Tableau calculations or search for the data to find certain values or quickly answer a question-- this is much faster and easier to do in Excel. 
+I downloaded the datasets and did some initial cleaning in Excel. Then, I uploaded the data to Tableau and created relationships in the data source pane. From here, I used only Tableau to analyze and visualize the data. I did occasionally open the data in Excel to QA my Tableau calculations or search for the data to find certain values or quickly answer a question--I find this faster and easier to do in Excel. 
 
-### Skills Demonstrated
+## Skills Demonstrated
 * Parameters & Parameter Actions
 * LOD expressions
 * Table calculations
